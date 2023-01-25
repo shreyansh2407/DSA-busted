@@ -1,0 +1,6 @@
+{
+    "workbench.preferredHighContrastLightColorTheme": "Visual Studio Dark",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
